@@ -267,6 +267,7 @@ body::selection{background:var(--cyan);color:var(--navy)}a{text-decoration:none;
 .lang-en{font-family:Inter,Arial,sans-serif}.lang-ar{font-family:Cairo,Tahoma,sans-serif}
 .lang-en .hero h1{letter-spacing:-.04em;line-height:1.15}.lang-en h2,.lang-en h3{letter-spacing:-.025em}
 .lang-ar h1,.lang-ar h2,.lang-ar h3{letter-spacing:normal;line-height:1.45}
+.lang-en{direction:ltr}
 .lang-en .story-chapter h2{line-height:1.24;letter-spacing:-.035em}.lang-ar .story-chapter h2{line-height:1.55}
 .lang-en .story-tunnel{direction:rtl}.lang-en .story-visual,.lang-en .story-copy{direction:ltr}.lang-en .story-chapter{align-items:flex-start}
 .lang-en .story-chapter,.lang-en .story-copy,.lang-en .solution-content,.lang-en .trial-copy,.lang-en .product-copy{text-align:left}
