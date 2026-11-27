@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://qc.labtrix.ir/</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://qc.labtrix.ir/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://qc.labtrix.ir/en.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://qc.labtrix.ir/ar.html" />
+  </url>
+  <url>
+    <loc>https://qc.labtrix.ir/en.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://qc.labtrix.ir/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://qc.labtrix.ir/en.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://qc.labtrix.ir/ar.html" />
+  </url>
+  <url>
+    <loc>https://qc.labtrix.ir/ar.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://qc.labtrix.ir/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://qc.labtrix.ir/en.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://qc.labtrix.ir/ar.html" />
+  </url>
+</urlset>
